@@ -1,0 +1,6 @@
+C:\workspace\otherCode\Intro_C#\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\workspace\otherCode\Intro_C#\Hello\Hello\bin\Debug\Hello.exe.config
+C:\workspace\otherCode\Intro_C#\Hello\Hello\bin\Debug\Hello.exe
+C:\workspace\otherCode\Intro_C#\Hello\Hello\bin\Debug\Hello.pdb
+C:\workspace\otherCode\Intro_C#\Hello\Hello\obj\Debug\Hello.exe
+C:\workspace\otherCode\Intro_C#\Hello\Hello\obj\Debug\Hello.pdb
